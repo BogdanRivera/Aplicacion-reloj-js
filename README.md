@@ -17,8 +17,8 @@ Esta aplicación web muestra un reloj digital y la fecha actual utilizando HTML,
 
 #### Vista Previa:
 
-![Aplicación web de Reloj Digital](![image](https://github.com/BogdanRivera/aplicacion-reloj-js/assets/121648408/492f63fe-077c-4684-9bfb-5a96dcb58501)
-)
+![preview](https://github.com/BogdanRivera/aplicacion-reloj-js/assets/121648408/14d9badc-0130-45ee-85a5-6a42076a50ea)
+
 
 #### Instrucciones:
 
